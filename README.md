@@ -10,6 +10,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,8 +62,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 <!---LeetCode Topics End-->
