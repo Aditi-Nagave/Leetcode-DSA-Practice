@@ -67,8 +67,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0509-fibonacci-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
