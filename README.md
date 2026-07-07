@@ -71,6 +71,7 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
