@@ -91,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
