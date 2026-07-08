@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -16,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
@@ -25,6 +27,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
