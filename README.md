@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
