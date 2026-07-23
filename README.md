@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
@@ -40,6 +42,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -77,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Enumeration
@@ -123,5 +127,10 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
