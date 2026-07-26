@@ -3,18 +3,20 @@ class Solution {
         int maxlen = 0;
         int n = s.length();
 
-        for(int i = 0 ; i<n ; i++){
-            HashSet <Character> set = new HashSet<>();
-            for(int j = i ;j<n ;j++){
-                char ch = s.charAt(j);
-                if(set.contains(ch)){
-                   break;
-                }
-                set.add(ch);
-                int len = j-i+1;
-                maxlen = Math.max(len,maxlen);
+        int r = 0;
+        int l = 0;
+        HashSet <Character> set = new HashSet<>();
 
+        while(r<n){
+            char ch = s.charAt(r);
+            while(set.contains(ch)){
+                set.remove(s.charAt(l));
+                l++;
             }
+            set.add(ch);
+            int len = r-l+1;
+            maxlen = Math.max(len, maxlen);
+            r++;
         }
         return maxlen;
         
