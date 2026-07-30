@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -55,6 +56,7 @@
 | [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
@@ -73,6 +75,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -91,6 +94,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
