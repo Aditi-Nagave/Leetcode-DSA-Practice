@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0078-subsets](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -167,5 +168,10 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
