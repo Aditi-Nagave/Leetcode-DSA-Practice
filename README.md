@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0078-subsets](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
@@ -166,6 +167,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
