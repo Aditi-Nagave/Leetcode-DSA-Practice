@@ -3,21 +3,15 @@ class Solution
 public:
     int removeDuplicates(vector<int>& nums) 
     {
-        set<int> numbers;
-
-        for(int i = 0 ; i<nums.size() ; i++)
+        int left = 0;
+        for(int right = 1 ; right < nums.size() ; right++)
         {
-            numbers.insert(nums[i]);
+            if(nums[left] != nums[right])
+            {
+                left++;
+                nums[left] = nums[right];
+            }
         }
-
-        int index = 0;
-        int ct = 0;
-        for(int num : numbers)
-        {
-            nums[index]=num;
-            index++;
-            ct++;
-        }
-        return ct;
+        return left+1;
     }
 };
