@@ -5,26 +5,21 @@ public:
     {
         int n = nums.size();
         k = k%n;
-        int ind = 0;
 
-        vector<int> extra(k);
+        reverse(0, n-k-1, nums);
+        reverse(n-k , n-1, nums);
+        reverse(0 , n-1, nums);
+    }
 
-        for(int i = n-k ; i<n ; i++)
-        {
-            extra[ind] = nums[i];
-            ind++;
-        }
+    void reverse(int left , int right, vector<int>&arr)
+    {
+        while(left < right){
+            int temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
 
-        ind = n-1;
-        for(int i = n-k-1 ; i>=0 ; i--)
-        {
-            nums[ind] = nums[i];
-            ind--;
-        }
-
-        for(int i = 0 ; i<k ; i++)
-        {
-            nums[i] = extra[i];
+            left++;
+            right--;
         }
     }
 };
