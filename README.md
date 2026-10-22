@@ -17,6 +17,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -33,6 +34,7 @@
 | [0189-rotate-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +46,7 @@
 | [0268-missing-number](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi-Nagave/Leetcode-DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
