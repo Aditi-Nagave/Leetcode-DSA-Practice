@@ -6,7 +6,7 @@ public:
        int k = n+m-1;
 
        while(i>=0 && j>=0){
-        if(nums2.at(j) >= nums1.at(i)){
+        if(nums1.at(i) < nums2.at(j)){
             nums1.at(k) = nums2.at(j);
             j--;
         }else{
