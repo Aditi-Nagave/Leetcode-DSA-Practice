@@ -2,15 +2,26 @@ class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         vector<int> ans;
-        vector<int> visited(nums2.size());
+        sort(nums1.begin(), nums1.end());
+        sort(nums2.begin(), nums2.end());
+        int i = 0 ;
+        int j = 0;
+        int n1 = nums1.size();
+        int n2 = nums2.size();
 
-        for(int i = 0 ; i<nums1.size() ; i++){
-            for(int j = 0 ; j< nums2.size() ; j++){
-                if(nums1.at(i) == nums2.at(j) && visited.at(j) == 0 && find(ans.begin(),ans.end(),nums1.at(i)) == ans.end()){
+        while(i<n1 && j<n2){
+            if(nums1.at(i)<nums2.at(j)){
+                i++;
+            }
+            else if(nums1.at(i) > nums2.at(j)){
+                j++;
+            }
+            else{
+                if(find(ans.begin(),ans.end(),nums1.at(i)) == ans.end()){
                     ans.push_back(nums1.at(i));
-                    visited.at(j) =1;
-                    break;
                 }
+                i++;
+                j++;
             }
         }
         return ans;
