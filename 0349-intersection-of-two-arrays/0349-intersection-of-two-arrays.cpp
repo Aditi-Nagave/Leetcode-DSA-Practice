@@ -17,11 +17,17 @@ public:
                 j++;
             }
             else{
-                if(find(ans.begin(),ans.end(),nums1.at(i)) == ans.end()){
-                    ans.push_back(nums1.at(i));
+                ans.push_back(nums1[i]);
+
+                int val = nums1[i];
+
+                while(i < n1 && nums1[i] == val) {
+                    i++;
                 }
-                i++;
-                j++;
+
+                while(j < n2 && nums2[j] == val) {
+                    j++;
+                }
             }
         }
         return ans;
